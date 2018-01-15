@@ -2,7 +2,7 @@
 Projects for Android Basics
 
 ## Project 1: [Happy Birthday Card](https://github.com/benjiehan/gwg-android-basics/tree/master/HappyBirthdayCard)
-### Use HTML and CSS to create a stylish web page on any topic.
+### Create a simple Happy Birthday card with the XML layout code you just learned.
 This card displays an image as a background, as well as a Happy Birthday text with To and From.
 
 
