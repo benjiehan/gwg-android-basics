@@ -10,13 +10,13 @@ This card displays an image as a background, as well as a Happy Birthday text wi
 ### Implement an app to track scores between two teams playing a game.
 This app has multiple buttons assigned to scores that updates the total when tapped. 
 
-<img src="https://imgur.com/a/Zb7SA" width="270">
+<img src="https://i.imgur.com/MY59UB7.png" width="270">
 
 ## Project 3: [Just Java App](https://github.com/benjiehan/gwg-android-basics/tree/master/JustJavaApp)
 ### Create an Android app with buttons and text fields that a user can interact with.
 This app allows you to increase and decrease the amount of coffee you want to purchase, and returns a total price.
 
-<img src="https://imgur.com/ctzY67z" width="270">
+<img src="https://i.imgur.com/lr2wIez.png" width="270">
 
-<img src="https://imgur.com/8tfudpb" width="270">
+<img src="https://i.imgur.com/VazbwGV.png" width="270">
 
