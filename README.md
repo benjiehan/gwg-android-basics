@@ -14,7 +14,7 @@ This app has multiple buttons assigned to scores that updates the total when tap
 
 ## Project 3: [Just Java App](https://github.com/benjiehan/gwg-android-basics/tree/master/JustJavaApp)
 ### Create an Android app with buttons and text fields that a user can interact with.
-This app allows you to increase and decrease the amount of coffee you want to purchase, and returns a total price. .Tapping on order should return a summary as an email using Gmail
+This app allows you to increase and decrease the amount of coffee you want to purchase, and returns a total price. Tapping on order should return a summary as an email using Gmail
 
 <img src="https://i.imgur.com/lr2wIez.png" width="270"> <img src="https://i.imgur.com/VazbwGV.png" width="270">
 
