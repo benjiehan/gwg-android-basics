@@ -1,14 +1,14 @@
-Court Counter Sample App
+Birthday Card Sample App
 ===================================
 
-Keeps track of basketball scores for two teams. Used in the Udacity Android for Beginners course.
+Sample app that displays a birthday card. Used in the Udacity Android for Beginners course.
 
 Pre-requisites
 --------------
 
-- Android SDK v24
-- Android Build Tools v24.0.2
-- Android Support Repository v24.2.0
+- Android SDK v22
+- Android Build Tools v22.0.1
+- Android Support Repository v22.1.1
 
 Getting Started
 ---------------
@@ -24,6 +24,12 @@ Support
 
 Patches are encouraged, and may be submitted by forking this project and
 submitting a pull request through GitHub. Please see CONTRIBUTING.md for more details.
+
+Image
+-----
+
+The image in the app's drawable folder is licensed under Creative Commons Attribution 3.0
+(http://creativecommons.org/licenses/by/3.0/).
 
 License
 -------
